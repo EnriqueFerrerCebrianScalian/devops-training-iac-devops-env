@@ -94,7 +94,7 @@ services:
       - devops_training_net
     environment:
       REPO: EnriqueFerrerCebrianScalian/devops-training-python-project
-      TOKEN: BF6O7AIT45SMXHEEAUN4QZ3F5HIFI
+      TOKEN: BF6O7ANVDI47JLQJPQLB2ZDF5HKEU
       DOCKER_HOST: tcp://docker:2376
       DOCKER_CERT_PATH: /certs/client
       DOCKER_TLS_VERIFY: 1
