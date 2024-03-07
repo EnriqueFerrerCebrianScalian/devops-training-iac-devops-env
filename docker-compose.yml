@@ -93,8 +93,8 @@ services:
     networks:
       - devops_training_net
     environment:
-      REPO: contreras-adr/devops-training-python-project
-      TOKEN: A6CZQVQC267WFGXOLAPGV6DF45SJM
+      REPO: EnriqueFerrerCebrianScalian/devops-training-python-project
+      TOKEN: BF6O7AIT45SMXHEEAUN4QZ3F5HIFI
       DOCKER_HOST: tcp://docker:2376
       DOCKER_CERT_PATH: /certs/client
       DOCKER_TLS_VERIFY: 1
